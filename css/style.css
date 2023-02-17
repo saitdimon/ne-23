@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul>li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    background: url(../img/1_1020128.webp) no-repeat center/cover;
+    height: 100vh;
+}
+
+.wrapper {}
+
+.data {}
+
+.date__number {
+    color: slateblue;
+    font-size: 45px;
+}
+
+.date__img-wrap {}
+
+.date__img {
+    border-radius: 50%;
+    position: fixed;
+    top: 28px;
+    right: 18px;
+}
+
+
+.felicitation {}
+
+.felicitation__text {
+    color: slateblue;
+    font-size: 30px;
+}
